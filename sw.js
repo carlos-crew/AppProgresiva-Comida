@@ -2,7 +2,7 @@ importScripts(
     'https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-sw.js'
     );
 
-workbox.precaching.precacheAndRoute ([
+workbox.precaching.precacheAndRoute([
     'index.html',
     'about.html',
     'menu.html',
@@ -19,9 +19,6 @@ workbox.precaching.precacheAndRoute ([
     'search.html',
     'update_address.html',
     'update_profile.html',
-    'app.js',
-    'sw.js',
-    'manifest.webmanifest',
     'img',
     'images',
     'js/script.js'

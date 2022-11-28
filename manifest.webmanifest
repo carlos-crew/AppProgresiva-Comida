@@ -44,7 +44,7 @@
                 "type": "image/png"
             }
         ],
-        "start_url": "./app-progresiva-comida.vercel.app/index.html", 
+        "start_url": "./AppProgresiva-Comida/index.html", 
         "display": "fullscreen",
         "theme_color": "#fff",
         "background_color": "#fff"
