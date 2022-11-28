@@ -52,7 +52,7 @@ workbox.routing.setCatchHandler(async context =>{
     return Response.error();
 });
 
-
+/*
 self.addEventListener('install', (e)=>{
     console.log("Instalado");
     e.waitUntil(async()=>{
@@ -73,3 +73,4 @@ self.addEventListener('fetch',(e)=>{
         return response;
     })())
 });
+*/
