@@ -10,16 +10,7 @@ workbox.precaching.precacheAndRoute([
     'offline.html',
     'icon/offline.jpg',
     'css/style.css',
-    //'checkout.html',
-   // 'contact.html',
-    //'login.html',
-    //'orders.html',
-    //'profile.html',
-    //'register.html',
-    'search.html',
-    //'update_address.html',
-    //'update_profile.html',
-    //'img',
+    'img',
     'images',
     'js/script.js'
 
