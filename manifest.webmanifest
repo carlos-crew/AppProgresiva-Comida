@@ -44,7 +44,7 @@
                 "type": "image/png"
             }
         ],
-        "start_url": "./polite-churros-06d067.netlify.app/", 
+        "start_url": "./app-progresiva-comida.vercel.app/index.html", 
         "display": "fullscreen",
         "theme_color": "#fff",
         "background_color": "#fff"
