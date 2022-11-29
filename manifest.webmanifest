@@ -44,7 +44,7 @@
                 "type": "image/png"
             }
         ],
-        "start_url": "./AppProgresiva-Comida/index.html", 
+        "start_url": "./app-progresiva-comida-git-main-carlos-crew.vercel.app/index.html", 
         "display": "fullscreen",
         "theme_color": "#fff",
         "background_color": "#fff"
