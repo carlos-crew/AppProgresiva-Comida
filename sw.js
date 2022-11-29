@@ -6,7 +6,6 @@ workbox.precaching.precacheAndRoute([
     'index.html',
     'about.html',
     'menu.html',
-    'cart.html',
     'offline.html',
     'icon/offline.jpg',
     'css/style.css',
